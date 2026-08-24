@@ -1,0 +1,20 @@
+# R session/history files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio project files (optional -- keep if you want to share .Rproj settings)
+.Rproj.user/
+
+# R environment/package caches
+.Renviron
+renv/library/
+renv/staging/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
